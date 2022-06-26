@@ -1,1 +1,1 @@
-# Week-2-Write-Up
+# Weekly-Write-Up
